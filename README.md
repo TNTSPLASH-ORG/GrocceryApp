@@ -8,3 +8,12 @@ Bitbucket:https://bitbucket.org/account/user/cfamilydev/projects/GROAPP
 
 We organize our whole project like this. The repo on github is our project. Then inside the project we have 2 folders otherwise know as repository. Then in there we have READMEs. Instead of making two more repos on github. This saves more space and keeps it fast to look at the project. 
 
+### Apis & Other Programs
+Google Sheets: https://developers.google.com/sheets/api/quickstart/dotnet
+
+The google sheets api is what ill be using to pull the information in the google sheet. This also uses NuGet Package Mangager.
+
+What I use to code. I use **Visual Studio Code** This is because, the NuGet Package manger is arleady in the program. I just have to install the extension.
+
+I will be using https://github.com/playgameservices/management-tools to help me manage my **Google Play** app. 
+

@@ -1,6 +1,15 @@
 # GrocceryApp
 [![Run on Repl.it](https://repl.it/badge/github/BatDev0/GrocceryApp)](https://repl.it/github/BatDev0/GrocceryApp)
 
+[![Run on Repl.it](https://repl.it/badge/github/BatDev0/GrocceryApp)](https://repl.it/github/BatDev0/GrocceryApp)
+[![License](https://img.shields.io/npm/l/intl-dom.svg)](LICENSE-MIT.txt)
+[![Issues](https://img.shields.io/bitbucket/issues-raw/BatDev0/GrocceryApp)](https://img.shields.io/bitbucket/issues-raw/BatDev0/GrocceryApp)
+[![Releases](https://img.shields.io/github/v/release/BatDev0/GrocceryApp)](https://img.shields.io/github/v/release/BatDev0/GrocceryApp)
+[![Commits](https://img.shields.io/github/commit-activity/m/BatDev0/GrocceryApp)](https://img.shields.io/github/commit-activity/m/BatDev0/GrocceryApp)
+[![Downloads](https://img.shields.io/github/downloads/BatDev0/GrocceryApp/total)](https://img.shields.io/github/downloads/BatDev0/GrocceryApp/total)
+[![Pulls](https://img.shields.io/bitbucket/pr-raw/BatDev0/GrocceryApp)](https://img.shields.io/bitbucket/pr-raw/BatDev0/GrocceryApp)
+
+
 The Groccery App is an app that will keep track of what you have, when it expires. And how much you have of it. It will do this off of information in a google sheet.
 
 Bitbucket:https://bitbucket.org/account/user/cfamilydev/projects/GROAPP

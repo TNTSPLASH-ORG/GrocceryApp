@@ -7,6 +7,10 @@
 [![Downloads](https://img.shields.io/github/downloads/BatDev0/GrocceryApp/total)](https://img.shields.io/github/downloads/BatDev0/GrocceryApp/total)
 [![Pulls](https://img.shields.io/bitbucket/pr-raw/BatDev0/GrocceryApp)](https://img.shields.io/bitbucket/pr-raw/BatDev0/GrocceryApp)
 
+[![Followers](https://img.shields.io/github/followers/BatDev0?label=Followers&style=social)](https://img.shields.io/github/followers/BatDev0?label=Followers&style=social)
+[![Stars](https://img.shields.io/github/stars/BatDev0/GrocceryApp?style=social)](https://img.shields.io/github/stars/BatDev0/GrocceryApp?style=social)
+[![Forks](https://img.shields.io/github/forks/BatDev0/GrocceryApp?label=Forks&style=social)](https://img.shields.io/github/forks/BatDev0/GrocceryApp?label=Forks&style=social)
+[![Watchers](https://img.shields.io/github/watchers/BatDev0/GrocceryApp?style=social)](https://img.shields.io/github/watchers/BatDev0/GrocceryApp?style=social)
 
 The Groccery App is an app that will keep track of what you have, when it expires. And how much you have of it. It will do this off of information in a google sheet.
 

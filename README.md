@@ -1,7 +1,5 @@
 # GrocceryApp
 [![Run on Repl.it](https://repl.it/badge/github/BatDev0/GrocceryApp)](https://repl.it/github/BatDev0/GrocceryApp)
-
-[![Run on Repl.it](https://repl.it/badge/github/BatDev0/GrocceryApp)](https://repl.it/github/BatDev0/GrocceryApp)
 [![License](https://img.shields.io/npm/l/intl-dom.svg)](LICENSE-MIT.txt)
 [![Issues](https://img.shields.io/bitbucket/issues-raw/BatDev0/GrocceryApp)](https://img.shields.io/bitbucket/issues-raw/BatDev0/GrocceryApp)
 [![Releases](https://img.shields.io/github/v/release/BatDev0/GrocceryApp)](https://img.shields.io/github/v/release/BatDev0/GrocceryApp)

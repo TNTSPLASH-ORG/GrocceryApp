@@ -1,4 +1,5 @@
 # GrocceryApp
+[![Run on Repl.it](https://repl.it/badge/github/BatDev0/GrocceryApp)](https://repl.it/github/BatDev0/GrocceryApp)
 
 [![Run on Repl.it](https://repl.it/badge/github/BatDev0/GrocceryApp)](https://repl.it/github/BatDev0/GrocceryApp)
 [![License](https://img.shields.io/npm/l/intl-dom.svg)](LICENSE-MIT.txt)
